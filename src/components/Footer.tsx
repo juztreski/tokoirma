@@ -15,10 +15,7 @@ export function Footer() {
           </Link>
           <div className="text-right">
             <p className="text-xs text-muted-foreground text-left">
-              © 2026 Platform Digital UMKM Soppeng by juztrezky
-            </p>
-            <p className="text-xs text-muted-foreground mt-1 text-center">
-              Pesan mudah via WhatsApp
+              © 2026 Platform Digital by @juztrezky_
             </p>
           </div>
         </div>
